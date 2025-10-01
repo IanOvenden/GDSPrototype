@@ -1,5 +1,5 @@
 {
-  "serviceName": "Service name goes here",
+  "serviceName": "Hello Moto Proto",
   "plugins": {
     "govuk-frontend": {
       "rebrand": true
